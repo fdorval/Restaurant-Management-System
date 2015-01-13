@@ -1,0 +1,6 @@
+No.of table, tableSize
+4,2
+3,4
+2,6
+1,8
+1,10

@@ -1,0 +1,7 @@
+itemID, type, name, price, desc, discounted price
+1,main course,steak,9,delicious Steak,8
+2,main course,Pasta,6,delicious Pasta,5
+3,drink,Pepsi,2,Sugarated Drink,1
+4,drink,Fanta,2,Sugarated Drink,1
+5,dessert,banana split,5, ice cream,  4
+6,dessert,cheese cakes,3, Cheesy cake,2

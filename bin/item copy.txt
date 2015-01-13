@@ -1,0 +1,8 @@
+itemID, type, name, price, desc, discounted price
+1,main course,steak,9,a very delicious steak,8
+2,main course,pasta,6,a very delicious pasta,5
+3,drink,coke,2,who doesnt love coke,1
+4,drink,sprite,2,plain sugary,1
+5,dessert,banana split,5,ice cream with banana topping,4
+6,dessert,cheese cake,3,cheessy cake,2
+
